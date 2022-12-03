@@ -13,8 +13,6 @@ Skills:
 . Adobe Photoshop and Illustrator;
 
 
-My contact: Tiagoc.borges02@gmail.com
-
 ##
 
 <div>
