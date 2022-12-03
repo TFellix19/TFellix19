@@ -3,16 +3,6 @@ I really enjoy WebDesign and in free time branding
 I am currently studying Multimedia Tecnologies and Design (degree) at Instituto Politecnico de Viseu 
 I have a professional course in Multimedia 
 
-Skills: 
-
-. HTML5, CSS3 and JavaScript;
-. GIT and GitHub;
-. Basic knowledge of SQL and PLPGSQL; 
-. React.js and Node.js;
-. Skills using Figma, Sketch, Adobe XD;
-. Adobe Photoshop and Illustrator;
-
-
 ##
 
 <div>
