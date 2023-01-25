@@ -1,27 +1,16 @@
-### I am  a front-end developer with motivation to learn more. 
-I really enjoy WebDesign and in free time branding 
-I am currently studying Multimedia Tecnologies and Design (degree) at Instituto Politecnico de Viseu 
-I have a professional course in Multimedia 
+# Heyyoo
+👋 I am a front-end developer with motivation to learn <br>🔭 I’m currently working on my portfolio<br>👯 I’m looking to collaborate on anything related to web projects<br>🌱 I’m currently learning more about the web and curious about react native <br>🎓 I am currently studying Multimedia Tecnologies and Design (degree) at Instituto Politecnico de Viseu<br>⚡ In my free time I enjoy playing games and do Branding related stuff<br>💬 Feel free to talk with me
 
-##
+[![](https://visitcount.itsvg.in/api?id=TFellix19&icon=2&color=2)](https://visitcount.itsvg.in)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TFellix19&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br/>
+<br/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div>
-<a href="https://github.com/TFellix19">
- <img height="140em" src="https://github-readme-stats.vercel.app/api?username=TFellix19&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TFellix19&layout=compact&langs_count-16&theme=dark"/>
-</div>
+### Follow_my_work_on
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/tiagoborges14) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tiago-borges-35a914231/) 
 
-<div style="display:inline_block"> <br>
-<img align="center" alt="Tiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img 
-align="center" alt="Tiago-Illustrator" height="30" width="30"     src="https://camo.githubusercontent.com/9e245893108b5ca27e7ac3d4a802d513f657b32aa7b5765bd92df7fb55d0ed54/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f61646f62655f696c6c7573747261746f722f61646f62655f696c6c7573747261746f722d69636f6e2e737667" alt="illustrator"  data-canonical-src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="max-width: 100%;">
-</div>
-  
-##
-  
-<div>
-  <a href="mailto:tiagoc.borges02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+
+
